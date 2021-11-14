@@ -22,7 +22,7 @@ export default (() => {
 						slot="StackItemContent"
 						margin-right="-20%"
 						padding-bottom="120%"
-						background="url(https://www.dropbox.com/s/pacdrtywfwvmzyb/IMG_20190524_162115.jpg?dl=0) 20% 15%/cover"
+						background="static/IMG_20190524_162115.jpg 20% 15%/cover"
 						lg-margin-right="0"
 						lg-padding-bottom="80%"
 					/>
