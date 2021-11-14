@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap-index.xml
+Sitemap: https://vigilant-meitner-e7fbe5.netlify.app/sitemap-index.xml
