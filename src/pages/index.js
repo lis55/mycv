@@ -22,7 +22,7 @@ export default (() => {
 						slot="StackItemContent"
 						margin-right="-20%"
 						padding-bottom="120%"
-						background="url(https://previews.dropbox.com/p/thumb/ABVG--3FIZi5s0V1SQjt6q5gMly8uAx3sqq_iYKychLlUpA_TatfUWURegi1GFcJKMqBpeBPU7dxs3COb9_PEMceJ4TyjQoIK2WQD53_O-b8kp5jA7yjqXXLHLMki948hdHV-dIP8EkDH87mlPHB7tdbJ0n572tI2qAaeeSziHT6Y2zEZtqIcZQ_tuMmQs_1kMn38l_TlkkRhLi-mUPc8Ev70Ib_sGKu1sAWYCBWjMVGiMo3L3G8_acQOu_c4_bWmMWocKlZP9m29NJCw7s688RUn6EkaNqHb-kFn4DKNK4Hq7xozfXF0LGu94EQBGQU0yCQRjX4SGFV_Z1BjR5GOSB8gD4CnKqou6IGS9SoAFsvcQ/p.jpeg) 20% 15%/cover"
+						background="url(https://www.dropbox.com/s/pacdrtywfwvmzyb/IMG_20190524_162115.jpg?dl=0) 20% 15%/cover"
 						lg-margin-right="0"
 						lg-padding-bottom="80%"
 					/>
